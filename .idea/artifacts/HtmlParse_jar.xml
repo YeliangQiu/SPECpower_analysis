@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HtmlParse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HtmlParse_jar</output-path>
+    <root id="archive" name="HtmlParse.jar">
+      <element id="module-output" name="HtmlParse" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/mysql-connector-java-6.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jsoup-1.10.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
